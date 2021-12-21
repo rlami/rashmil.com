@@ -3,5 +3,5 @@
 
 Rashmi is an artist from Pokhara, Nepal.
 
-![Rashmi Lamichhane Logo](https://secure.gravatar.com/avatar/823385cf654563b69dfaf20a3c9e557e) 
+![Rashmi Lamichhane Logo](https://rashmil.files.wordpress.com/2021/12/about.jpg?resize=380%2C280) 
 
