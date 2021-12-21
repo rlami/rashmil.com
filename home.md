@@ -6,7 +6,7 @@ layout: default
 ---
 
 <!-- Pages -->
-[about](/bio)
+[about](/about)
 
 [projects](/projects)
 
