@@ -8,13 +8,13 @@ layout: default
 **Rashmi Lamichhane**
 
 <!-- Pages -->
-[About](www.rashmil.com/bio)
+[About](/bio)
 
-[Projects](www.rashmil.com/projects)
+[Projects](/projects)
 
-[Selected works](www.rashmil.com/selected-works)
+[Selected works](/selected-works)
 
-[Elsewhere on the internet](www.rashmil.com/elsewhere)
+[Elsewhere on the internet](/elsewhere)
 
 
 
