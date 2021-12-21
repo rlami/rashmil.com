@@ -1,5 +1,5 @@
 <!-- Bio Page -->
-## Bio
+## about
 
 Rashmi is an artist from Pokhara, Nepal.
 

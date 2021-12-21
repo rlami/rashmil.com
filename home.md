@@ -6,13 +6,13 @@ layout: default
 ---
 
 <!-- Pages -->
-[About](/bio)
+[about](/bio)
 
-[Projects](/projects)
+[projects](/projects)
 
-[Selected work](/selected-work)
+[selected work](/selected-work)
 
-[Elsewhere on the internet](/elsewhere)
+<!--[Elsewhere on the internet](/elsewhere)-->
 
 
 

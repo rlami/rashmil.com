@@ -1,4 +1,4 @@
-## Projects
+## projects
 
 Virangana Comics Art Prints Sale for COVID Relief, 2021
 
