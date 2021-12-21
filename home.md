@@ -12,7 +12,7 @@ layout: default
 
 [Projects](/projects)
 
-[Selected works](/selected-works)
+[Selected works](/selected-work)
 
 [Elsewhere on the internet](/elsewhere)
 
