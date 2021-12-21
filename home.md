@@ -5,8 +5,6 @@ layout: default
 
 ---
 
-**Rashmi Lamichhane**
-
 <!-- Pages -->
 [About](/bio)
 

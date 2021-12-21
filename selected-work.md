@@ -14,7 +14,7 @@ This piece was part of the Art Print Sale for COVID Relief organised by Virangan
 
 "Read*, Watercolour illustration, 2020
 
-![Read](https://rashmil.files.wordpress.com/2021/01/20210117_211243.png) 
+![Read](https://rashmil.files.wordpress.com/2021/12/read-half.png?resize=214%2C214) 
 
 "Art spirit", Animation, 2020
 
